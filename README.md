@@ -1,5 +1,8 @@
 Interview Hack Guide: Cracking HR Calls from TCS with a 3-Month Notice Period 💼📞
 
+
+---
+
 1. Naukri Profile Setup 📝
 
 Create a fresh, updated profile ✅
@@ -21,6 +24,9 @@ Reach out via email or DM professionally 📬
 Stay active on LinkedIn through likes, reactions, small value posts, or thoughtful comments 💬🔥
 
 
+
+---
+
 2. Resume Creation 🖋️
 
 Focus on tech stack, system design, real project ownership ⚙️🧩
@@ -41,6 +47,9 @@ Crisp, relevant content only 🎯
 
 
 
+
+---
+
 3. Handling the HR Call: Notice Period Question ☎️
 
 HR Question: "What’s your notice period?"
@@ -57,6 +66,9 @@ Add-ons:
 
 "KT is done and the team is ready — just awaiting official exit." 🚪
 
+
+
+---
 
 4. Why We Set Naukri to 1 Month 🧠🎭
 
@@ -86,6 +98,9 @@ Ask questions — confidence booster 🔁
 
 
 
+
+---
+
 5. Visibility Strategy (Beyond Naukri) 🔍
 
 Engage on LinkedIn: Like, comment, and support 🎉
@@ -94,6 +109,9 @@ Share short posts, insights, learnings 🧠💬
 
 Update GitHub consistently with practice projects 💻📂
 
+
+
+---
 
 6. Case Handling: Actual Notice is 3 Months 🎯
 
@@ -132,12 +150,18 @@ Most people test the waters — no guilt 🌊
 Learn, regroup, and restart stronger 🔥
 
 
+
+---
+
 7. Bonus Pointers 🎁
 
 "Manager already knows I’m preparing — supportive." 🤝
 
 "1.5 months is genuine — I’m not misleading anyone." 🧠🗓️
 
+
+
+---
 
 8. Final Truth 🔐
 
