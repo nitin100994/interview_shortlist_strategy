@@ -1,4 +1,4 @@
-Interview Hack Guide: Cracking HR Calls from TCS with a 3-Month Notice Period 💼📞
+Interview Hack Guide: Cracking HR Calls and move with a 3-Month Notice Period 💼📞
 
 
 ---
